@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1367189188 source:/home/w33ky/Development/codeblocks/channel-parser/parser.cpp
+	<boost/spirit/home/classic.hpp>
+	<iostream>
+	<fstream>
+	<sstream>
+	<sqlite3.h>
+	"database.h"
+
+1367189222 source:/home/w33ky/Development/codeblocks/channel-parser/database.cpp
+	"database.h"
+
+1367188193 /home/w33ky/Development/codeblocks/channel-parser/database.h
+	<sqlite3.h>
+	<iostream>
+
